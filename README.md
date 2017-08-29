@@ -50,11 +50,11 @@ npm run build //项目打包
 
 ### 歌手列表
 
-<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/music-img/GIF111.gif" width="225" height="400"/> 
+<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/music-img/GIF111.gif" width="300" height="533"/> 
 
 ### 搜索页面和个人中心页面
 
-<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/music-img/GIF222.gif" width="225" height="400"/> 
+<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/music-img/GIF222.gif" width="300" height="533"/> 
 
 
 
