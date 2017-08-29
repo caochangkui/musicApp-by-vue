@@ -45,7 +45,7 @@ npm run build //项目打包
 
 ### 音乐推荐页面
 
-<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/music-img/GIF000.gif" width="225" height="400" alt="" />
+<img src="https://raw.githubusercontent.com/caochangkui/common-resources/master/music-img/GIF000.gif" width="300" height="533" alt="" />
 
 
 ### 歌手列表
