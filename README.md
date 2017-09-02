@@ -8,7 +8,6 @@
 
 - [x] MVVM框架：Vue.js 2.0
 - [x] 状态管理：Vuex
-- [x] 移动端组件库：Mint-ui
 - [x] 前端路由：Vue-router
 - [x] 数据交互：Vue-resource、axios、jsonp
 - [x] 打包工具：webpack 2.0
